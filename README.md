@@ -26,7 +26,7 @@ RegisterNumber:
 ```
 
 ## Output:
-![multivariate linear regression model for predicting the price of the house and number of occupants in the house](sam.png)
+![multivariate linear regression model for predicting the price of the house and number of occupants in the house](EX4.png)
 
 
 ## Result:
